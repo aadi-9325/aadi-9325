@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Aditya Ghodke</h1>
-<h3 align="center">A passionate frontend developer from India, and eager to learn .</h3>
+<h3 align="center">A passionate Data Analyst from India, and eager to learn .</h3>
 
 
 
 <p align="left"> <a href="https://twitter.com/adityaghodke8" target="blank"><img src="https://img.shields.io/twitter/follow/adityaghodke8?logo=twitter&style=for-the-badge" alt="adityaghodke8" /></a> </p>
 
-- 🔭 I’m currently working on **Porfolio Website**
+- 🔭 I’m currently working on **Data Analyst Project**
 
-- 🌱 I’m currently learning **React Js ,**
+- 🌱 I’m currently learning **Deep Learning,**
 
 - 👯 I’m looking to collaborate on **Aplabate App**
 
-- 💬 Ask me about **HTML CSS , PHP , JAVA , Data Structure**
+- 💬 Ask me about **Python,Excel, PowerBI, SQL, Deep Learning, PHP , JAVA , Data Structure**
 
 - 📫 How to reach me **ghodkeaadi@gmail.com**
 
