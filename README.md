@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ghodkeaadi@gmail.com**
 
-- ⚡ Fun fact **I thinks in am Kind ..**
+- **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
